@@ -1,5 +1,7 @@
-# hello-my-world
+Nothing more will
 
-Hi there, stranger! This is a test of merge here in Git. Feel free to contribute, if you like to. Cheers!
+be
 
-This line was changed!
+the
+
+same!
