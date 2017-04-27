@@ -10,4 +10,4 @@ be
 
 the
 
-same_!
+same_!$
